@@ -1,2 +1,3 @@
 # marko
-author - subhash singh
+author - subhash singh <br>
+my name is subhash singh
